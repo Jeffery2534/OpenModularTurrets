@@ -35,6 +35,7 @@ item.barrel_tier_four.name=炮管(四级)
 item.barrel_tier_five.name=炮管(五级)
 item.io_bus.name=IO总线
 item.memory_card.name=炮塔记忆卡
+
 tile.turret_base_tier_one.name=炮塔基座(一级)
 tile.turret_base_tier_two.name=炮塔基座(二级)
 tile.turret_base_tier_three.name=炮塔基座(三级)
@@ -62,6 +63,7 @@ tile.expander_inv_tier_two.name=基座存储扩容(二级)
 tile.expander_inv_tier_three.name=基座存储扩容(三级)
 tile.expander_inv_tier_four.name=基座存储扩容(四级)
 tile.expander_inv_tier_five.name=基座存储扩容(五级)
+tile.base_addon_loot_deleter.name=Base Addon - Loot Deleter
 
 #for IGWMod
 tile.turret_base.name=炮塔基座
